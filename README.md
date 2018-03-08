@@ -1,1 +1,0 @@
-My analysis of the kaggle housing proces dataset.
